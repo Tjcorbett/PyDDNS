@@ -1,0 +1,3 @@
+Domain: hopecorbett.com
+Hosts: @,          www
+DDNS Key: 345586c8ae344355a854c2aa9e777564
