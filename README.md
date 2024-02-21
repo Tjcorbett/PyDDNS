@@ -26,5 +26,3 @@ https://www.python.org/downloads/
 - Saves your inputs
 - Cross-platform
 - Success/Failure Status
-
-<img src="./python-powered.png">
