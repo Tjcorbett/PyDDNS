@@ -1,3 +1,0 @@
-Domain: yoururlhere.com
-Hosts: yourhosthere (Ex:@,www)
-DDNS Key: yourkeyhere
