@@ -11,7 +11,7 @@ If you need multiple domains simply Copy the folder and rename it, Then you can 
 Requires Python3 or above:
 https://www.python.org/downloads/
 
-###DDNS Domain Config
+### DDNS Domain Config
 - The first thing you need to do is to enable Dynamic DNS for the domain exampledns.com.  
 - The next step is to create an A record for the host "Ex: www and @" and point it to your current Public IP
 
