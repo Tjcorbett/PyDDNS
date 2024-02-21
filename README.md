@@ -6,6 +6,7 @@ If you need multiple domains simply copy the folder and rename it, Then you can 
 
 ## Screenshots
 <img src="./screenshot.jpg">
+<img src="./python-powered.png">
 
 ## Prerequisite 
 Requires Python:
