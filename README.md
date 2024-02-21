@@ -7,7 +7,7 @@ If you need multiple domains simply Copy the folder and rename it, Then you can 
 
 ## Screenshots
 
-<img src="./myimage.jpg">
+<img src="./screenshot.jpg">
 
 
 ## Prerequisite 
