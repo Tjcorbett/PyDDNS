@@ -1,5 +1,5 @@
 # PyDDNS
-A GUI for pushing your public IP to your A name records of your domain.
+A GUI for pushing your dynamic public IP to your A name records of your domain.
 
 #### Note: 
 If you need multiple domains simply copy the folder and rename it, Then you can open the PyDDNS program again to link another domain.
