@@ -16,4 +16,5 @@ https://www.python.org/downloads/
 - Displays your current Public IP
 - Manual update button
 - Multiple host entries
+- Saves your inputs
 - Cross-platform
